@@ -75,7 +75,7 @@ My research interests includes machine learning and computer vision, especially 
 </div>
 </div>
 
-## 👀 Computer Vision for Tracking
+## 👀 Computer Vision for Video Processing
 - [Fuzzy SLIC: Fuzzy simple linear iterative clustering](https://ieeexplore.ieee.org/document/9175036/), Chong Wu, Jiangbin Zheng, Zhenan Feng, Houwang Zhang, Le Zhang, **Jiawang Cao**, Hong Yan, **IEEE Transactions on Circuits and Systems for Video Technology (IEEE T-CSVT), 31 (6), 2114-2124**
 - [Superpixel tensor pooling for visual tracking using multiple midlevel visual cues fusion](https://ieeexplore.ieee.org/document/8865033/), Chong Wu, Le Zhang, **Jiawang Cao**, Hong Yan, **IEEE Access,7, 147462-147469**
 
@@ -93,7 +93,7 @@ My research interests includes machine learning and computer vision, especially 
 
 # 📖 Educations
 - *2019.09 - 2022.06 (now)*:
-Computer Science, Fudan University (FDU), Shanghai, China. GPA: 3.34/4.0. 
+Computer Science, Fudan University (FDU), Shanghai, China. GPA: 3.35/4.0. 
 - *2015.09 - 2019.06*:
 Automation, China uiversity of Geosciences (CUG), Wuhan, China. Ranking: 3/98, Li-siguang project (30/4500) .
 
