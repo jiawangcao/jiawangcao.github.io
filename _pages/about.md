@@ -81,7 +81,7 @@ My research interests includes machine learning and computer vision, especially 
 
 ## 📄 Machine Learning for Data Mining
 
-- [Star Topology Convolution for Graph Representation Learning](https://github.com), Chong Wu, Zhenan Feng, Jiangbin Zheng, Houwang Zhang, **Jiawang Cao**, Hong Yan. <!-- **CVPR 2020** -->
+- [Star Topology Convolution for Graph Representation Learning](https://www.techrxiv.org/articles/preprint/Star_Topology_Convolution_for_Graph_Representation_Learning/12805799), Chong Wu, Zhenan Feng, Jiangbin Zheng, Houwang Zhang, **Jiawang Cao**, Hong Yan. <!-- **CVPR 2020** -->
 
 # 🎖 Honors and Awards
 - *2021.10* National Schloarship at FDU (Top 1%).
