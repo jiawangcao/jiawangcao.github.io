@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third (2019-) year Computer Science Master student at Fudan University, under the superivision of Professor <a href='http://faet.fudan.edu.cn/e4/81/c23830a255105/page.htm'>Rui Feng</a>. I obtained my bachelor degree from School of Automation (Li-siguang Project) at China University of Geosciences (Wuhan) , advised by <a href='http://grzy.cug.edu.cn/donghaobin/zh_CN/index/10540/list/index.htm'>Prof. Haobin Dong</a> and <a href='http://grzy.cug.edu.cn/donghaobin/zh_CN/index/10540/list/index.htm'>Prof. Yuan Zhu</a>. I have interned at United-imaging Intelligence, co-worked with <a href='https://scholar.google.com/citations?user=4UxzoMkAAAAJ&hl=en'>Fan Yang</a>. I have also been a summer intern in Alipay, focued graph mining to recognize risk users. 
+I am a third (2019-) year Computer Science Master student at Fudan University, under the superivision of Professor <a href='http://faet.fudan.edu.cn/e4/81/c23830a255105/page.htm'>Rui Feng</a>. I obtained my bachelor degree from School of Automation (Li-siguang Project) at China University of Geosciences (Wuhan) , advised by <a href='http://grzy.cug.edu.cn/donghaobin/zh_CN/index.htm'>Prof. Haobin Dong</a> and <a href='http://grzy.cug.edu.cn/zhuyuan/zh_CN/index.htm'>Prof. Yuan Zhu</a>. I have interned at United-imaging Intelligence, co-worked with <a href='https://scholar.google.com/citations?hl=en&user=4UxzoMkAAAAJ&view_op=list_works&sortby=pubdate'>Fan Yang</a>. I have also been a summer intern in Alipay, focued graph mining to recognize risk users. 
 
 Duiring the period of my M.S. degree, I focus on Medical Image Analysis including target segmentation and diease recogenizision.
 Clike google scholar badge <a href='https://scholar.google.com/citations?user=UJ1OJPwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> to look through my publications.
@@ -27,9 +27,8 @@ My research interests includes machine learning and computer vision, especially 
 
 **I am looking for a Ph.D program starting at fall 2022 or spring 2023.**
 
-<!-- # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+# 🔥 News
+- <!-- *2022.02*: --> &nbsp; 🎓 **I am looking for a Ph.D program starting at fall 2022 or spring 2023.**
 
 # 📝 Publications 
 ## 💉 Medical Image Analysis
