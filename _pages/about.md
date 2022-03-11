@@ -32,7 +32,7 @@ And now I am looking for a Ph.D program starting at fall 2022 or spring 2023.
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
-##;💉 Medical Image Analysis. 
+## 💉 Medical Image Analysis
 
 <!-- <div class='paper-box'><div class='paper-box-image'><img src='images/500x300.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
@@ -54,33 +54,33 @@ And now I am looking for a Ph.D program starting at fall 2022 or spring 2023.
 </div>
 </div> -->
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/500x300.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/ICIP2021.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [Exploiting Deep Cross-Slice Features From CT Images For Multi-Class Pneumonia Classification](https://ieeexplore.ieee.org/document/9506553), Jiawang Cao<sup>#</sup>, Lulu Jiang<sup>#</sup>, Junlin Hou, Longquan Jiang, Ruiwei Zhao, Weiya Shi, Fei Shan, Rui Feng. <sup>#</sup>equal contribution.
 
 **2021 IEEE International Conference on Image Processing (ICIP), 205-209** \| [**Paper**](https://ieeexplore.ieee.org/document/9506553) <strong><span class='show_paper_citations' data='UJ1OJPwAAAAJ:UeHWp8X0CEIC'></span></strong>
-- In this paper, we propose a novel two-stage method to fully exploit deep cross-slice features from volumetric CT data, including a dual-task supervised CNN and a context-aware Bi-LSTM.  
+- We propose a novel two-stage method to fully exploit deep cross-slice features from volumetric CT data, including a dual-task supervised CNN and a context-aware Bi-LSTM.  
 - The experimental results indicate the superiority of our proposed model on the multi-class pneumonia classification task. 
-- **<font color="#660000">Best Student Paper Award**
+- <font color="#660000">**Best Student Paper Award**
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/ATM.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep learning for detecting corona virus disease 2019 (COVID-19) on high-resolution computed tomography: a pilot study.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7210135/), Shuyi Yang<sup>#</sup>, Longquan Jiang<sup>#</sup>, Zhuoqun Cao, Liya Wang, **Jiawang Cao**, Rui Feng, Zhiyong Zhang, Xiangyang Xue, Yuxin Shi, and Fei Shan. <sup>#</sup> equal contribution.
+[Deep learning for detecting corona virus disease 2019 (COVID-19) on high-resolution computed tomography: a pilot study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7210135/), Shuyi Yang<sup>#</sup>, Longquan Jiang<sup>#</sup>, Zhuoqun Cao, Liya Wang, **Jiawang Cao**, Rui Feng, Zhiyong Zhang, Xiangyang Xue, Yuxin Shi, and Fei Shan. <sup>#</sup> equal contribution.
 
 **Annals of translational medicine 8 (7)** \| [**Paper**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7210135/) <strong><span class='show_paper_citations' data='UJ1OJPwAAAAJ:d1gkVwhDpl0C'></span></strong>
 - Deep learning (DL) with DenseNet can accurately classify COVID-19 on HRCT with an AUC of 0.98, which can reduce the miss diagnosis rate (combined with radiologists’ evaluation) and radiologists’ workload.
 </div>
 </div>
 
-##👀 Computer Vision for Tracking
+## 👀 Computer Vision for Tracking
 - [Fuzzy SLIC: Fuzzy simple linear iterative clustering](https://ieeexplore.ieee.org/document/9175036/), Chong Wu, Jiangbin Zheng, Zhenan Feng, Houwang Zhang, Le Zhang, **Jiawang Cao**, Hong Yan, **IEEE Transactions on Circuits and Systems for Video Technology (IEEE T-CSVT), 31 (6), 2114-2124**
 - [Superpixel tensor pooling for visual tracking using multiple midlevel visual cues fusion](https://ieeexplore.ieee.org/document/8865033/), Chong Wu, Le Zhang, **Jiawang Cao**, Hong Yan, **IEEE Access,7, 147462-147469**
 
-##📄 Machine Learning for Data Mining
+## 📄 Machine Learning for Data Mining
 
 - [Star Topology Convolution for Graph Representation Learning](https://github.com), Chong Wu, Zhenan Feng, Jiangbin Zheng, Houwang Zhang, **Jiawang Cao**, Hong Yan. <!-- **CVPR 2020** -->
 
@@ -101,7 +101,7 @@ Automation, China uiversity of Geosciences (CUG), Wuhan, China.
 Cumulative GPA: 3.8/5.0, Ranking: 3/98, Li-siguang project (30/4500) .
 
 # 💬 Invited Talks
-- *2021.06*, Atrous High-Order Attention Network for Medical Image Segmentation, ISBRA 2022 Track 2.
+- *2021.09*, Atrous High-Order Attention Network for Medical Image Segmentation, ISBRA 2022 Track 2.
 <!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
