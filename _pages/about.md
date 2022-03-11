@@ -23,9 +23,9 @@ Duiring the period of my M.S. degree, I focus on Medical Image Analysis includin
 Clike google scholar badge <a href='https://scholar.google.com/citations?user=UJ1OJPwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> to look through my publications.
  <!-- which the work published with total <a href='https://scholar.google.com/citations?user=UJ1OJPwAAAAJ'>google scholar citations <strong><span id='total_cit'>50+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=UJ1OJPwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
-My research interests includes machine learning and computer vision, especially in the feild of Health care. I am also interested in inter-disciplinary research like Computational Methods for Multi-scale Physical Problems. (stay hungry 💦).I am willing to try my best to make improvements. 
+My research interests includes machine learning and computer vision, especially in the feild of Health care. I am also interested in inter-disciplinary research like Computational Methods for Multi-scale Physical Problems. (stay hungry 💦). 
 
-And now I am looking for a Ph.D program starting at fall 2022 or spring 2023.
+**I am looking for a Ph.D program starting at fall 2022 or spring 2023.**
 
 <!-- # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
