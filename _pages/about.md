@@ -28,7 +28,7 @@ My research interests includes machine learning and computer vision, especially 
 <!-- **I am looking for a Ph.D program starting at fall 2022 or spring 2023.** -->
 
 # 🔥 News
-- <!-- *2022.02*: --> &nbsp; 🎓 **I am looking for a Ph.D program starting at spring 2023.**
+- <!-- *2022.02*: --> &nbsp; 🎓 **I am looking for a Ph.D program starting at fall 2022 or spring 2023.**
 
 # 📝 Publications 
 ## 💉 Medical Image Analysis
