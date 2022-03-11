@@ -62,7 +62,7 @@ My research interests includes machine learning and computer vision, especially 
 **2021 IEEE International Conference on Image Processing (ICIP), 205-209** \| [**Paper**](https://ieeexplore.ieee.org/document/9506553) <strong><span class='show_paper_citations' data='UJ1OJPwAAAAJ:UeHWp8X0CEIC'></span></strong>
 - We propose a novel two-stage method to fully exploit deep cross-slice features from volumetric CT data, including a dual-task supervised CNN and a context-aware Bi-LSTM.  
 - The experimental results indicate the superiority of our proposed model on the multi-class pneumonia classification task. 
-- <font color="#660000">**Best Student Paper Award**
+- **Best Student Paper Award**
 </div>
 </div>
 
@@ -88,17 +88,15 @@ My research interests includes machine learning and computer vision, especially 
 - *2021.10* National Schloarship at FDU (Top 1%).
 - *2020.12* Award for Outstanding Students of Master's Degrees (2020-2021) at FDU . 
 - *2019.12* The Second Pirce in The 16th China Post-Graguate Mathematical Contest in Modeling.
-- *2018.12* "Haiyin" Schloarship at CUG.
+- *2018.10* "Haiyin" Schloarship at CUG.
 - *2017.10* Award for Outstanding Students (2017-2018) at CUG.
 - *2016.10* National Schloarship at CUG (Top 1%). 
 
 # 📖 Educations
 - *2019.09 - 2022.06 (now)*:
-Computer Science, Fudan University (FDU), Shanghai, China.
-Cumulative GPA: 3.34/4.0. 
+Computer Science, Fudan University (FDU), Shanghai, China. GPA: 3.34/4.0. 
 - *2015.09 - 2019.06*:
-Automation, China uiversity of Geosciences (CUG), Wuhan, China. 
-Cumulative GPA: 3.8/5.0, Ranking: 3/98, Li-siguang project (30/4500) .
+Automation, China uiversity of Geosciences (CUG), Wuhan, China. Ranking: 3/98, Li-siguang project (30/4500) .
 
 # 💬 Invited Talks
 - *2021.09*, Atrous High-Order Attention Network for Medical Image Segmentation, ISBRA 2022 Track 2.
