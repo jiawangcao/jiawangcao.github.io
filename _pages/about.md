@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third (2019-) year Computer Science Master student at Fudan University, under the superivision of Professor Rui Feng. I obtained my bachelor degree from School of Automation (Li-siguang project: 30/4500 ) at China University of Geosciences (Wuhan) , advised by <a href='http://grzy.cug.edu.cn/donghaobin/zh_CN/index/10540/list/index.htm'>Prof. Haobin Dong</a> and <a href='http://grzy.cug.edu.cn/donghaobin/zh_CN/index/10540/list/index.htm'>Prof. Yuan Zhu</a>. I have interned at United-imaging Intelligence, co-worked with <a href='https://scholar.google.com/citations?user=4UxzoMkAAAAJ&hl=en'>Fan Yang. I was also a summer intern in Alipay, focued graph mining to recognize risk users. 
+I am a third (2019-) year Computer Science Master student at Fudan University, under the superivision of Professor Rui Feng. I obtained my bachelor degree from School of Automation (Li-siguang project: 30/4500 ) at China University of Geosciences (Wuhan) , advised by <a href='http://grzy.cug.edu.cn/donghaobin/zh_CN/index/10540/list/index.htm'>Prof. Haobin Dong</a> and <a href='http://grzy.cug.edu.cn/donghaobin/zh_CN/index/10540/list/index.htm'>Prof. Yuan Zhu</a>. I have interned at United-imaging Intelligence, co-worked with <a href='https://scholar.google.com/citations?user=4UxzoMkAAAAJ&hl=en'>Fan Yang. I have also been a summer intern in Alipay, focued graph mining to recognize risk users. 
 
 Duiring the period of my M.S. degree, I focus on Medical Image Analysis including target segmentation and diease recogenizision. For example, deep learning for detecting COVID-19, witch the work published with total <a href='https://scholar.google.com/citations?user=UJ1OJPwAAAAJ'>google scholar citations <strong><span id='total_cit'>50+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=UJ1OJPwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
@@ -84,4 +84,5 @@ Undergraduate Cumulative GPA: 3.8/5.0, Ranking: 3/98 ,
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2021.06 - 2022.09*, [Ant Group Finacial Technology](https://tech.antfin.com/products/dsg), Shanghai, China.
+- *2020.12 - 2021.05*, [UII](https://github.com/fyangneil/computer-vision-intern-and-full-time),Shanghai, China.
