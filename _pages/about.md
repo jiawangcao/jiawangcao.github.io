@@ -17,25 +17,37 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third (2019-) year Computer Science Master student at Fudan University, under the superivision of Professor Rui Feng. I obtained my bachelor degree from School of Automation (Li-siguang project: 30/4500 ) at China University of Geosciences (Wuhan) , advised by <a href='http://grzy.cug.edu.cn/donghaobin/zh_CN/index/10540/list/index.htm'>Prof. Haobin Dong</a> and <a href='http://grzy.cug.edu.cn/donghaobin/zh_CN/index/10540/list/index.htm'>Prof. Yuan Zhu</a>. I have interned at United-imaging Intelligence, co-worked with <a href='https://scholar.google.com/citations?user=4UxzoMkAAAAJ&hl=en'>Fan Yang. I have also been a summer intern in Alipay, focued graph mining to recognize risk users. 
+I am a third (2019-) year Computer Science Master student at Fudan University, under the superivision of Professor <a href='http://faet.fudan.edu.cn/e4/81/c23830a255105/page.htm'>Rui Feng</a>. I obtained my bachelor degree from School of Automation (Li-siguang Project) at China University of Geosciences (Wuhan) , advised by <a href='http://grzy.cug.edu.cn/donghaobin/zh_CN/index/10540/list/index.htm'>Prof. Haobin Dong</a> and <a href='http://grzy.cug.edu.cn/donghaobin/zh_CN/index/10540/list/index.htm'>Prof. Yuan Zhu</a>. I have interned at United-imaging Intelligence, co-worked with <a href='https://scholar.google.com/citations?user=4UxzoMkAAAAJ&hl=en'>Fan Yang</a>. I have also been a summer intern in Alipay, focued graph mining to recognize risk users. 
 
-Duiring the period of my M.S. degree, I focus on Medical Image Analysis including target segmentation and diease recogenizision. For example, deep learning for detecting COVID-19, witch the work published with total <a href='https://scholar.google.com/citations?user=UJ1OJPwAAAAJ'>google scholar citations <strong><span id='total_cit'>50+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=UJ1OJPwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Duiring the period of my M.S. degree, I focus on Medical Image Analysis including target segmentation and diease recogenizision. For example, deep learning for detecting COVID-19.
+Clike google scholar badge <a href='https://scholar.google.com/citations?user=UJ1OJPwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>) to look through my publications.
+ <!-- which the work published with total <a href='https://scholar.google.com/citations?user=UJ1OJPwAAAAJ'>google scholar citations <strong><span id='total_cit'>50+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=UJ1OJPwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
-My research interests includes machine learning and computer vision, especially in the Health care feild.  I am willing to try my best to make a little improvement in science. And now I am hopefully looking for a Ph.D program starting at fall 2022 or spring 2023.
-
+My research interests includes machine learning and computer vision, especially in the feild of Health care. I am willing to try my best to make improvements. And now looking for a Ph.D program starting at fall 2022 or spring 2023.
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
+- &nbsp;🎉🎉 Medical Image Analysis. 
+
+<!-- <div class='paper-box'><div class='paper-box-image'><img src='images/500x300.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
+
+[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf), **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+
+**Jounal of Computer, 2023** \| [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+</div>
+</div> -->
 
 <div class='paper-box'><div class='paper-box-image'><img src='images/500x300.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf), **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
 
-**Jounal of Computer, 2016** \| [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+**ISBRA, 2022** \| [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
@@ -43,31 +55,39 @@ My research interests includes machine learning and computer vision, especially 
 <div class='paper-box'><div class='paper-box-image'><img src='images/500x300.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf), **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+[Exploiting Deep Cross-Slice Features From CT Images For Multi-Class Pneumonia Classification](https://ieeexplore.ieee.org/document/9506553), Jiawang Cao<sup>#</sup>, Lulu Jiang<sup>#</sup>, Junlin Hou, Longquan Jiang, Ruiwei Zhao, Weiya Shi, Fei Shan, Rui Feng. <sup>#</sup>equal contribution.
 
-**ISBRA, 2016** \| [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**ICIP, 2021** \| [**Paper**](https://ieeexplore.ieee.org/document/9506553) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- In this paper, we propose a novel two-stage method to fully exploit deep cross-slice features from volumetric CT data, including a dual-task supervised CNN and a context-aware Bi-LSTM.  
+- The experimental results indicate the superiority of our proposed model on the multi-class pneumonia classification task. 
+- **<font color="#660000">Best Student Paper Award**
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/500x300.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/ATM.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf), **Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+[Deep learning for detecting corona virus disease 2019 (COVID-19) on high-resolution computed tomography: a pilot study.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7210135/), Shuyi Yang<sup>#</sup>, Longquan Jiang<sup>#</sup>, Zhuoqun Cao, Liya Wang, **Jiawang Cao**, Rui Feng, Zhiyong Zhang, Xiangyang Xue, Yuxin Shi, and Fei Shan. <sup>#</sup> equal contribution.
 
-**ICIP, 2016** \| [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**ATM, 2016** \| [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=UJ1OJPwAAAAJ&citation_for_view=UJ1OJPwAAAAJ:d1gkVwhDpl0C) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Deep learning (DL) with DenseNet can accurately classify COVID-19 on HRCT with an AUC of 0.98, which can reduce the miss diagnosis rate (combined with radiologists’ evaluation) and radiologists’ workload.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- &nbsp;🎉🎉 Computer Vision. 
+- [Fuzzy SLIC: Fuzzy simple linear iterative clustering](https://ieeexplore.ieee.org/document/9175036/), Chong Wu, Jiangbin Zheng, Zhenan Feng, Houwang Zhang, Le Zhang, **Jiawang Cao**, Hong Yan, **IEEE Transactions on Circuits and Systems for Video Technology (IEEE T-CSVT), 31 (6), 2114-2124**
+- [Superpixel tensor pooling for visual tracking using multiple midlevel visual cues fusion](https://ieeexplore.ieee.org/document/8865033/), Chong Wu, Le Zhang, **Jiawang Cao**, Hong Yan, **IEEE Access,7, 147462-147469**
+
+- &nbsp;🎉🎉 Machine Learning. 
+
+- [Star Topology Convolution for Graph Representation Learning](https://github.com), Chong Wu, Zhenan Feng, Jiangbin Zheng, Houwang Zhang, **Jiawang Cao**, Hong Yan. <!-- **CVPR 2020** -->
 
 # 🎖 Honors and Awards
 - *2021.10* National Schloarship at FDU (Top 1%).
-- *2020.12* 2020-2021 Award for Outstanding Students of Master's Degrees at FDU.
+- *2020.12* Award for Outstanding Students of Master's Degrees (2020-2021) at FDU .
 - *2019.12* The Second Pirce in The 16th China Post-Graguate Mathematical Contest in Modeling.
 - *2018.12* "Haiyin" schloarship at CUG.
-- *2017.10* 2017-2018 Award for Outstanding Students at CUG.
+- *2017.10* Award for Outstanding Students (2017-2018) at CUG.
 - *2016.10* National Schloarship at CUG (Top 1%). 
 
 # 📖 Educations
@@ -79,9 +99,9 @@ Automation, China uiversity of Geosciences (CUG), Wuhan, China.
 Li-siguang project (30/4500) . 
 Undergraduate Cumulative GPA: 3.8/5.0, Ranking: 3/98 ,
 
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+# 💬 Invited Talks
+- *2021.06*, ISBRA 2022
+<!-- - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
 - *2021.06 - 2022.09*, [Ant Group Finacial Technology](https://tech.antfin.com/products/dsg), Shanghai, China.
