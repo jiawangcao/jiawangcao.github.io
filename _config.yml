@@ -7,29 +7,31 @@
 
 # Site Settings
 title                    : "Jiawang Cao"
-description              : "Master student at Fudan university. "
-repository               : "jiawangcao/jiawangcao.github.io"
+description              : "Applied Scientist @ OpusClip"
+repository               : "hangingter/gavincao.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
 google_analytics_id      : "G-2GJZ2DLSFR" # get google_analytics_id from https://analytics.google.com/analytics/
+
 
 # SEO Related
 google_site_verification :  # get google_site_verification from https://search.google.com/search-console/about
 bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
+
 # Site Author
 author:
   name             : "Jiawang Cao"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Fudan University"
-  location         : "Shanghai, China"
+  bio              : "曹加旺"
+  location         : "California, USA; Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=UJ1OJPwAAAAJ"
   email            : "jwcao19@fudan.edu.cn"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,15 +39,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "Hangingter"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
-  dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  linkedin         : "jiawang-gavin-cao-612152213"
+  dblp             : 
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -65,15 +67,12 @@ include:
   - _pages
   - files
 exclude:
-  - docs
-  - google_scholar_crawler
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
-  - .github
   - CHANGELOG
   - Capfile
   - Gemfile
@@ -91,6 +90,8 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - google_scholar_crawler
+  - github_myprofile_updater
 keep_files:
   - .git
   - .svn

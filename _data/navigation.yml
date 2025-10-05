@@ -7,7 +7,7 @@ main:
     url: "/#-news"
 
   - title: "Publications"
-    url: "/#-publications"
+    url: "/#-selected-publications"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
@@ -15,8 +15,8 @@ main:
   - title: "Educations"
     url: "/#-educations"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
+  # - title: "Invited Talks"
+  #   url: "/#-invited-talks"
 
-  - title: "Internships"
-    url: "/#-internships"
+  # - title: "Internships"
+  #   url: "/#-internships"
