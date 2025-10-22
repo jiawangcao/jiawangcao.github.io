@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Jiawang Cao"
 description              : "Applied Scientist @ OpusClip"
-repository               : "hangingter/gavincao.github.io"
+repository               : "jiawangcao/jiawangcao.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -88,6 +88,7 @@ exclude:
   - log
   - node_modules
   - package.json
+  - docs
   - tmp
   - vendor
   - google_scholar_crawler
