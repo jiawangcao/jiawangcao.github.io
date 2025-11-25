@@ -35,6 +35,7 @@ const App: React.FC = () => {
   // 新增状态：用于控制聊天输入框的锁定，但不触发全屏加载
   const [isChatting, setIsChatting] = useState(false);
   const [error, setError] = useState<string | null>(null);
+  const [apiKey, setApiKey] = useState('');
 
   const handleInputChange = (field: keyof UserInput, value: string) => {
     setInput(prev => ({ ...prev, [field]: value }));
@@ -42,6 +43,12 @@ const App: React.FC = () => {
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
+    
+    if (!apiKey.trim()) {
+      setError("Please enter a valid Gemini API Key.");
+      return;
+    }
+
     setBaziResult(null);
     setChatSession(null);
     setMessages([]);
@@ -61,7 +68,7 @@ const App: React.FC = () => {
           setLoading({ isLoading: true, message: '大师推演中... Consulting the Oracles...' });
 
           // 2. Initialize Chat
-          const { chat, initialMessage } = createDestinyChat(input, data);
+          const { chat, initialMessage } = createDestinyChat(apiKey, input, data);
           setChatSession(chat);
 
           // 3. Send Initial Message (The detailed prompt) - with retry
@@ -264,6 +271,25 @@ const App: React.FC = () => {
                       placeholder="e.g. Beijing"
                       required
                     />
+                  </InputField>
+                </div>
+
+                <div className="max-w-xl mx-auto">
+                  <InputField label="Gemini API Key">
+                    <input
+                      type="password"
+                      value={apiKey}
+                      onChange={(e) => setApiKey(e.target.value)}
+                      className="w-full bg-slate-950 border border-slate-700 rounded-md p-3 text-center text-lg focus:border-amber-500 focus:outline-none focus:ring-1 focus:ring-amber-500 transition-colors placeholder-slate-600"
+                      placeholder="Enter your Google Gemini API Key"
+                      required
+                    />
+                    <p className="text-xs text-slate-500 text-center mt-1">
+                      Required for AI Analysis. Your key is used locally and never stored. 
+                      <a href="https://aistudio.google.com/app/apikey" target="_blank" rel="noreferrer" className="text-amber-500 hover:underline ml-1">
+                        Get Free API Key
+                      </a>
+                    </p>
                   </InputField>
                 </div>
 

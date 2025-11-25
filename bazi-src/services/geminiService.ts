@@ -3,10 +3,6 @@ import { UserInput, CalculationResult, Gender } from "../types";
 // @ts-ignore
 import { Solar } from 'lunar-javascript';
 
-const apiKey = process.env.API_KEY;
-console.log("API Key loaded:", apiKey ? "Yes (Length: " + apiKey.length + ")" : "No");
-const ai = new GoogleGenAI({ apiKey: apiKey });
-
 const MODEL_NAME = "gemini-3-pro-preview";
 
 /**
@@ -79,7 +75,8 @@ export const calculateBaziData = async (input: UserInput): Promise<CalculationRe
 /**
  * Step 2: Initialize the Chat with the specific expert persona and user data.
  */
-export const createDestinyChat = (input: UserInput, calcData: CalculationResult): { chat: Chat, initialMessage: string } => {
+export const createDestinyChat = (apiKey: string, input: UserInput, calcData: CalculationResult): { chat: Chat, initialMessage: string } => {
+  const ai = new GoogleGenAI({ apiKey: apiKey });
 
   // Constructing the prompt based on user's request
   const systemInstruction = `
