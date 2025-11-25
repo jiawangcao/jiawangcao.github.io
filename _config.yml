@@ -93,6 +93,7 @@ exclude:
   - vendor
   - google_scholar_crawler
   - github_myprofile_updater
+  - bazi-src
 keep_files:
   - .git
   - .svn
