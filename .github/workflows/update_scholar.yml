@@ -1,0 +1,55 @@
+name: Update Google Scholar Stats
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    # 每天 UTC 08:00 运行（北京时间 16:00）
+    - cron: '0 8 * * *'
+  workflow_dispatch: # 允许手动触发
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main branch
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: |
+          cd google_scholar_crawler
+          pip install -r requirements.txt
+
+      - name: Run crawler
+        env:
+          GOOGLE_SCHOLAR_ID: ${{ secrets.GOOGLE_SCHOLAR_ID }}
+        run: |
+          cd google_scholar_crawler
+          python main.py
+
+      - name: Checkout google-scholar-stats branch
+        uses: actions/checkout@v3
+        with:
+          ref: google-scholar-stats
+          path: google-scholar-stats
+
+      - name: Copy results
+        run: |
+          cp google_scholar_crawler/results/*.json google-scholar-stats/
+
+      - name: Commit and push
+        run: |
+          cd google-scholar-stats
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Update Google Scholar stats [skip ci]" || exit 0
+          git push
